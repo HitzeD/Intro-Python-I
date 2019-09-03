@@ -40,4 +40,5 @@ print(b)
 s = "Hello, world!"
 
 # Output just the 8th-12th characters: "world"
-print()
+s1 = s[7:12]
+print(s1)
